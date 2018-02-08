@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: hsdecomp
+Version: 0.1.0
+Summary: A decompiler for GHC-compiled Haskell
+Home-page: https://github.com/gereeter/hsdecomp
+Author: Jonathan S
+Author-email: gereeter+code@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
